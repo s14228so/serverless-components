@@ -1,0 +1,6 @@
+name: sls-component-sample
+
+myCustomComponent:
+  component: ./src
+  inputs: 
+    name: "sample"
